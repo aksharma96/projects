@@ -4,7 +4,11 @@
     "owner": "aksharma96"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "yashika"
+      }
+    ],
     "diagrams": [
       {
         "title": "d1",
